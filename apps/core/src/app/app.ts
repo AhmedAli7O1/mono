@@ -3,7 +3,7 @@ import { ComponentManagement, HookContext, ComponentType, IHook, AppStage, Confi
 import { IAppOptions } from './app.interfaces';
 import { ConsoleLogger, ILogger, Logger, LogLevel } from '../logger';
 import { ICLI } from '../components/cli/cli.interfaces';
-
+console.log('asdasd');
 export class App {
   protected components: ComponentManagement;
   protected isRunCalled: boolean;

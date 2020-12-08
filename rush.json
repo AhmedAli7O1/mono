@@ -440,6 +440,11 @@
       "packageName": "@nodearch/core",
       "projectFolder": "apps/core",
       "reviewCategory": "production"
+    },
+    {
+      "packageName": "@nodearch/cli",
+      "projectFolder": "apps/cli",
+      "reviewCategory": "production"
     }
   ]
 }
